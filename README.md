@@ -9,7 +9,7 @@ __Supports PHP7.2-8.1!__ (function/method manipulation is recommended only for u
   Disabling opcache is the recommended workaround.
 - This has been tested with php 8.2.0beta1
 
-[![Build Status](https://secure.travis-ci.org/runkit7/runkit7.png?branch=master)](http://travis-ci.org/runkit7/runkit7)
+[![Build Status](https://github.com/runkit7/runkit7/actions/workflows/config.yml/badge.svg?branch=master)](https://github.com/runkit7/runkit7/actions/workflows/config.yml?query=branch%3Amaster)
 [![Build Status (Windows)](https://ci.appveyor.com/api/projects/status/3jwsf76ge0yo8v74/branch/master?svg=true)](https://ci.appveyor.com/project/TysonAndre/runkit7/branch/master)
 
 [Building and installing runkit7 in unix](#building-and-installing-runkit7-in-unix)
